@@ -1,6 +1,6 @@
 name: Lucas
 age: 22
-isStud: true
+isStudying: true
 occupation: bagage handler
 hobbies:
   - coding
